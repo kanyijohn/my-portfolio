@@ -1,2 +1,2 @@
 # my-portfolio
-Created ny portfolio using HTML,CSS and JavaScript
+Created and developed my portfolio webpage using HTML,CSS and JavaScript
